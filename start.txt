@@ -1,0 +1,7 @@
+hello
+hi
+aws
+dev
+ops
+bye
+12345
